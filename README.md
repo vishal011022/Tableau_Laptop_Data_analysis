@@ -1,4 +1,4 @@
-# Tableau_Laptop_Sale_analysis
+# Tableau_Laptop_Sale_analysis_Vishal
 
 ## Business Case Objective:
 a) One of the leading retail chains in london having more than 15 stores which sells Laptops and accessories.
